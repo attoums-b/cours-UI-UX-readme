@@ -159,3 +159,8 @@ PROTOTYPAGE ET TACHES
 plus on avance dans le prototypage , plus les taches sont précises , tout sera bien précis 
 
 PROTOTYPAGE HAUTE FIDELITE 
+
+TYPOLOGIE 1 : DEGRE DE FIDELITE 
+
+APRES LE DEPLOIEMENT 
+Former et aider les utilisateurs 
